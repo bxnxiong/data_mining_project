@@ -42,7 +42,6 @@ for i in range(len(large_pref)):
 
 data = db.transformed_new2
 
-
 print '##### get user and coupon locations #####'
 
 user_location_la = []
